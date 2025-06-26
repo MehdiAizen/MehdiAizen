@@ -1,4 +1,4 @@
-## Hi there 👋 , here a certification that i got years back
+## Hi there 👋 , here is a 🏅 Certificate that i got years back
 
 [My Certificate: From Code to Creation: Mastering Game Programming (Credential ID: 1da29c9a3db54707889203e12504a192)](https://courses.edx.org/certificates/1da29c9a3db54707889203e12504a192)
 
